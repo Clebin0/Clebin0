@@ -1,5 +1,5 @@
-- 👋 Olá, sou o Clebin
-- 👀 Estou interessado em desenvolvimento web, programação e tecnologia em geral.  
-- 🌱 Estou atualmente em busca de conhecimento para iniciar minha carreira como Desenvolvedor.   
-- 📫 Como entrar em contato comigo: devcledson@gmail.com ou no [LinkedIn](https://linkedin.com/in/cledson-silva).   
-- ⚡ Curiosidade: Gosto explorar novas tecnologias e sempre estou pronto para aprender algo novo!  
+- 👋 Hello, I'm Clebin
+- 👀 I'm interested in web development, programming and technology in general.  
+- 🌱 I am currently looking for knowledge to start my career as a Developer.   
+- 📫 How to contact me: devcledson@gmail.com or on [LinkedIn](https://linkedin.com/in/cledson-silva).   
+- ⚡ Curiosity: I like exploring new technologies and I'm always ready to learn something new!
