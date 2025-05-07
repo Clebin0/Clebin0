@@ -1,4 +1,4 @@
-- 😎 Olá, eu sou o Cledson
+- 😎 Olá, eu sou o Cledson.
 - 👀 Tenho interesse em desenvolvimento backend e tecnologia em geral.
 - 🌱 Atualmente, estou em busca de conhecimento para iniciar minha carreira como Estagiário de desenvolvimento backend.
 - 📫 Como entrar em contato comigo: devcledson@gmail.com ou no [LinkedIn](https://linkedin.com/in/cledson-silva).
