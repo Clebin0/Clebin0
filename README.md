@@ -5,6 +5,5 @@
 - ⚡ Curiosity: I like exploring new technologies and I'm always ready to learn something new!
   <div>
   <a href="https://github.com/Clebin0">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username-Clebin0&show_icons-true&theme-draculašinclude_all_commits-true&count_private-true"> 
-<ing height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-Clebin0&layout-compact&langs_count=16&theme-dracula"/> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clebin0)](https://github.com/Clebin0/github-readme-stats)
 </div>
