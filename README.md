@@ -38,8 +38,8 @@
 ### 📈 Estatísticas GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Clebin0&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebin0&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Clebin0&show_icons=true&theme=transparent&hide_title=true&hide_rank=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebin0&layout=compact&theme=transparent" height="160"/>
 </p>
 
 ---
