@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=323737&height=200&section=header&text=Cledson&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=%20%20%20Estudante%20%20%20&descAlignY=50&descSize=18" alt="Clebinho header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Cledson&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=%20%20%20Estudante%20%20%20&descAlignY=50&descSize=18" alt="Clebinho header"/>
 </p>
 
 <br/>
@@ -35,11 +35,19 @@
 
 ---
 
-### 📈 Estatísticas GitHub
+### 📊 Estatísticas GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Clebin0&show_icons=true&theme=transparent&hide_title=true&hide_rank=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebin0&layout=compact&theme=transparent" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Clebin0&show_icons=true&include_all_commits=true&theme=dark&bg_color=000000&rank_icon=default" height="160"/>
+</p>
+
+---
+
+### 💡 Linguagens Mais Usadas
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebin0&hide_progress=true&theme=dark&bg_color=000000" height="160"/>
 </p>
 
 ---
@@ -47,11 +55,11 @@
 ### 🗓️ Gráfico de Contribuições
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clebin0&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clebin0&theme=github-compact&hide_border=true&bg_color=000000"/>
 </p>
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=323737&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 </p>
 
 </div>
