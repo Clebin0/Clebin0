@@ -35,18 +35,10 @@
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas & Linguagens
 
-<p>
-  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Clebin0&show_icons=true&include_all_commits=true&theme=dark&bg_color=000000&rank_icon=default" height="160"/>
-</p>
-
----
-
-### 💡 Linguagens Mais Usadas
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebin0&hide_progress=true&theme=dark&bg_color=000000" height="160"/>
 </p>
 
