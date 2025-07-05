@@ -16,30 +16,55 @@
 
 ### 📦 Tecnologias que uso
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
+      <br>Linux
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📚 Aprendendo
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
+      <br>C#
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 Estatísticas & Linguagens
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clebin0&show_icons=true&include_all_commits=true&theme=dark&bg_color=000000&rank_icon=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebin0&hide_progress=true&theme=dark&bg_color=000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Clebin0&show_icons=true&include_all_commits=true&theme=dark&bg_color=000000&rank_icon=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebin0&hide_progress=true&theme=dark&bg_color=000000"/>
 </p>
 
 ---
