@@ -1,15 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Cledson%20Santos&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Java%20|%20Kotlin%20|%20Backend%20Developer&descAlignY=50&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Cledson%20Santos&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Java%20|%20Kotlin%20%20%20&descAlignY=50&descSize=20)
 
 <br/>
 
-👋 Olá! Sou um estudante de **Engenharia de Software** apaixonado por tecnologia.
+👋 Desenvolvedor focado em backend.
 <br/>
-🚀 Atualmente meu foco está no ecossistema **Java & Kotlin**, mas trago uma forte bagagem em **C#/.NET** e desenvolvimento Web.
-<br/>
-🎯 Busco criar soluções escaláveis e performáticas, unindo conhecimentos de infraestrutura e desenvolvimento.
-
+🎯 Me dedicando dominar **Java & Kotlin**, priorizando a escrita de código limpo, organizado e bem estruturado.
 <br/>
 
 ---
