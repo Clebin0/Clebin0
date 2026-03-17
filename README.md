@@ -6,7 +6,7 @@
 
 👋 Desenvolvedor focado em backend.
 <br/>
-🎯 Me dedicando dominar **Java & Kotlin**, priorizando a escrita de código limpo, organizado e bem estruturado.
+🎯 Me dedicando dominar **Python, Java & Kotlin**, priorizando a escrita de código limpo, organizado e bem estruturado.
 <br/>
 
 ---
