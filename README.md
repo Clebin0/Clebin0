@@ -35,22 +35,6 @@ Tenho interesse em IA aplicada a suporte, inventario e infraestrutura.
 
 ---
 
-### Projetos em destaque
-
-#### [Smart Inventory](https://github.com/Clebin0/smart-inventory)
-Sistema de gestao de ativos de TI com QR Code, movimentacoes, responsaveis, historico, filtros, exportacao e dashboard.
-
-#### [IT Support Toolkit](https://github.com/Clebin0/it-support-toolkit)
-Ferramentas para diagnostico de estacoes, armazenamento, conectividade e recursos do sistema.
-
-#### [AI Helpdesk](https://github.com/Clebin0/ai-helpdesk)
-Triagem e assistencia de chamados com classificacao, prioridade e proximos passos.
-
-#### [Zabbix Automation Lab](https://github.com/Clebin0/zabbix-automation-lab)
-Laboratorio para automacoes, relatorios e integracoes com a API do Zabbix.
-
----
-
 ### Atualmente
 
 Aprofundando meus conhecimentos em infraestrutura, backend, automacao e IA aplicada a operacoes de TI.
@@ -63,5 +47,3 @@ Aprofundando meus conhecimentos em infraestrutura, backend, automacao e IA aplic
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7A18?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cledson-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clebin0)
-
-> Os projetos publicos deste perfil usam dados ficticios ou ambientes de laboratorio. Credenciais e informacoes corporativas nao sao publicadas.
