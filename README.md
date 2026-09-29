@@ -34,22 +34,6 @@ Meu foco atual e construir ferramentas que transformem problemas operacionais em
 
 ---
 
-### Projetos em destaque
-
-#### [AI Helpdesk ML](https://github.com/Clebin0/ai-helpdesk)
-Pipeline de NLP com TF-IDF + Logistic Regression para triagem de chamados, probabilidades, metricas, matriz de confusao, API FastAPI e revisao humana.
-
-#### [Zabbix AIOps Lab](https://github.com/Clebin0/zabbix-automation-lab)
-Laboratorio de observabilidade com API Zabbix e deteccao nao supervisionada de anomalias com Isolation Forest em series sinteticas.
-
-#### [Smart Inventory](https://github.com/Clebin0/smart-inventory)
-Gestao de ativos com QR Code, movimentacoes, dashboard, PostgreSQL e lifecycle risk score explicavel.
-
-#### [IT Support Toolkit](https://github.com/Clebin0/it-support-toolkit)
-Diagnostico de estacoes e conectividade com CLI, dashboard web, relatorios e operacao somente leitura.
-
----
-
 ### Atualmente
 
 Estudando e construindo projetos na intersecao entre **Infraestrutura, Python, Machine Learning, AIOps e MLOps**.
@@ -60,5 +44,3 @@ Estudando e construindo projetos na intersecao entre **Infraestrutura, Python, M
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7A18?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cledson-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clebin0)
-
-> Todos os projetos publicos usam dados ficticios ou ambientes de laboratorio. Nenhuma credencial ou informacao interna de ambientes corporativos e publicada.
