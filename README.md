@@ -1,16 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF7A18&width=720&lines=Ola%2C+eu+sou+o+Cledson+Silva;IT+Support+%7C+Infrastructure+%7C+Automation+%7C+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF7A18&width=760&lines=Ola%2C+eu+sou+o+Cledson+Silva;Infrastructure+%7C+Automation+%7C+AI%2FML;Python+%7C+AIOps+%7C+MLOps)](https://git.io/typing-svg)
 
 ### Sobre mim
 
-Analista de Suporte Jr. com foco em suporte e infraestrutura de TI.  
-Estudante de Engenharia de Software.  
-Trabalho com troubleshooting, redes, monitoramento e automacao.  
-Desenvolvo ferramentas em Python para resolver problemas reais de operacao.  
-Tenho interesse em IA aplicada a suporte, inventario e infraestrutura.
+Analista de Suporte Jr. e estudante de Engenharia de Software. Minha base vem de suporte, infraestrutura, redes e troubleshooting; hoje estou aproximando essa experiencia de Python, automacao e Machine Learning aplicado a operacoes de TI.
+
+Meu foco atual e construir ferramentas que transformem problemas operacionais em processos mais rastreaveis, mensuraveis e automatizados.
 
 ---
 
-### Ferramentas & Habilidades
+### Areas de foco
 
 #### Infraestrutura & Suporte
 
@@ -24,26 +22,43 @@ Tenho interesse em IA aplicada a suporte, inventario e infraestrutura.
 ![Python](https://img.shields.io/badge/Python-FF7A18?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-222222?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF7A18?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF7A18?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF7A18?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### IA & Integracoes
+#### AI / Machine Learning
 
-![AI](https://img.shields.io/badge/AI-FF7A18?style=for-the-badge&logo=openai&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-222222?style=for-the-badge&logo=fastapi&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF7A18?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FF7A18?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-222222?style=for-the-badge&logo=python&logoColor=white)
+![AIOps](https://img.shields.io/badge/AIOps-FF7A18?style=for-the-badge&logo=python&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-222222?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Projetos em destaque
+
+#### [AI Helpdesk ML](https://github.com/Clebin0/ai-helpdesk)
+Pipeline de NLP com TF-IDF + Logistic Regression para triagem de chamados, probabilidades, metricas, matriz de confusao, API FastAPI e revisao humana.
+
+#### [Zabbix AIOps Lab](https://github.com/Clebin0/zabbix-automation-lab)
+Laboratorio de observabilidade com API Zabbix e deteccao nao supervisionada de anomalias com Isolation Forest em series sinteticas.
+
+#### [Smart Inventory](https://github.com/Clebin0/smart-inventory)
+Gestao de ativos com QR Code, movimentacoes, dashboard, PostgreSQL e lifecycle risk score explicavel.
+
+#### [IT Support Toolkit](https://github.com/Clebin0/it-support-toolkit)
+Diagnostico de estacoes e conectividade com CLI, dashboard web, relatorios e operacao somente leitura.
 
 ---
 
 ### Atualmente
 
-Aprofundando meus conhecimentos em infraestrutura, backend, automacao e IA aplicada a operacoes de TI.
-
-### Atividade
+Estudando e construindo projetos na intersecao entre **Infraestrutura, Python, Machine Learning, AIOps e MLOps**.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Clebin0&theme=github-compact&hide_border=true)
 
-### Entre em contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7A18?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cledson-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clebin0)
+
+> Todos os projetos publicos usam dados ficticios ou ambientes de laboratorio. Nenhuma credencial ou informacao interna de ambientes corporativos e publicada.
