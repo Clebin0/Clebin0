@@ -79,42 +79,8 @@ Meu foco é construir ferramentas que reduzam trabalho repetitivo, tornem proces
 
 ---
 
-## Projetos em destaque
-
-### [MLOps / AIOps Lab](https://github.com/Clebin0/mlops-aiops-lab)
-
-Pipeline de Machine Learning com avaliação, registro de modelo, serving via FastAPI, testes automatizados e monitoramento de drift.
-
-### [IMPOSTORES](https://github.com/Clebin0/impostores-site)
-
-Aplicação web em Next.js e TypeScript com calendário, conteúdo institucional, e-commerce e fluxo de checkout demonstrativo.
-
-### [Task Manager](https://github.com/Clebin0/task_manager)
-
-Projeto em Kotlin voltado para fundamentos de backend, orientação a objetos, persistência local e CRUD.
-
-> Projetos maiores de automação, inventário, observabilidade e produtos completos estão sendo preparados para publicação.
-
----
-
-## Em foco
-
-Atualmente estudo e construo projetos na interseção entre **infraestrutura, backend, automação, observabilidade e IA aplicada a operações de TI**.
-
 Interesses atuais:
 
 AIOps · MLOps · Backend · APIs · PostgreSQL · Docker · Observabilidade · Automação
 
 ---
-
-## Atividade
-
-Meu histórico público de contribuições, commits e projetos pode ser acompanhado diretamente no [perfil do GitHub](https://github.com/Clebin0).
-
----
-
-<div align="center">
-
-**Build systems. Automate repetition. Understand the failure.**
-
-</div>
