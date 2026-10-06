@@ -81,13 +81,19 @@ Meu foco é construir ferramentas que reduzam trabalho repetitivo, tornem proces
 
 ## Projetos em destaque
 
-| Projeto | O que demonstra |
-| --- | --- |
-| [MLOps / AIOps Lab](https://github.com/Clebin0/mlops-aiops-lab) | Pipeline de ML versionado, avaliação, serving com FastAPI, registro de modelo, testes e monitoramento de drift. |
-| [IMPOSTORES](https://github.com/Clebin0/impostores-site) | Aplicação web em Next.js/TypeScript com calendário, conteúdo institucional, e-commerce e fluxo de checkout. |
-| [Task Manager](https://github.com/Clebin0/task_manager) | Fundamentos de backend em Kotlin, POO, persistência local e CRUD. |
+### [MLOps / AIOps Lab](https://github.com/Clebin0/mlops-aiops-lab)
 
-Projetos maiores de automação, inventário, observabilidade e produtos completos também fazem parte do meu laboratório pessoal e estão sendo preparados para publicação.
+Pipeline de Machine Learning com avaliação, registro de modelo, serving via FastAPI, testes automatizados e monitoramento de drift.
+
+### [IMPOSTORES](https://github.com/Clebin0/impostores-site)
+
+Aplicação web em Next.js e TypeScript com calendário, conteúdo institucional, e-commerce e fluxo de checkout demonstrativo.
+
+### [Task Manager](https://github.com/Clebin0/task_manager)
+
+Projeto em Kotlin voltado para fundamentos de backend, orientação a objetos, persistência local e CRUD.
+
+> Projetos maiores de automação, inventário, observabilidade e produtos completos estão sendo preparados para publicação.
 
 ---
 
@@ -103,14 +109,7 @@ AIOps · MLOps · Backend · APIs · PostgreSQL · Docker · Observabilidade · 
 
 ## Atividade
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Clebin0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true"
-  alt="GitHub activity graph"
-/>
-
-</div>
+Meu histórico público de contribuições, commits e projetos pode ser acompanhado diretamente no [perfil do GitHub](https://github.com/Clebin0).
 
 ---
 
