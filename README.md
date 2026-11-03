@@ -1,86 +1,54 @@
-<div align="center">
+# Cledson Santos
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Cledson+Santos;Software+Engineering+%C2%B7+Infrastructure;Backend+%C2%B7+Automation+%C2%B7+AI%2FML"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=760&lines=Cledson+Santos;Software+Engineering+%C2%B7+Infrastructure;Backend+%C2%B7+Automation+%C2%B7+AI%2FML"
-    alt="Cledson Santos"
-  />
-</picture>
+**Engenharia de Software · Backend · Automação · IA aplicada**
 
-**Engenharia de Software · Infraestrutura · Backend · Automação**
+Sou estudante de Engenharia de Software. Minha experiência começou no suporte e na infraestrutura de TI, trabalhando com diagnóstico, redes e processos operacionais. Tenho direcionado essa base para desenvolvimento backend e automações que resolvem problemas concretos.
 
-Curitiba, PR · Brasil
+Gosto de projetos em que dá para explicar por que uma decisão foi tomada, testar o comportamento e deixar claras as limitações.
 
-<a href="https://www.linkedin.com/in/cledson-silva">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Clebin0">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+## Projetos em destaque
 
-</div>
+### [Smart Inventory](https://github.com/Clebin0/smart-inventory)
 
----
+Controle de patrimônio de TI com cadastro, movimentações, histórico por ativo, QR Code e regras explícitas para apontar equipamentos que precisam de atenção.
 
-## Sobre mim
+**Tecnologias:** Python, FastAPI, SQLAlchemy, SQLite e PostgreSQL.
 
-Analista de Suporte Jr. e estudante de Engenharia de Software. Minha base vem de suporte, infraestrutura, redes e troubleshooting; hoje direciono essa experiência para desenvolvimento backend, automação, observabilidade e aplicações de IA em operações de TI.
+[Ver a interface](https://github.com/Clebin0/smart-inventory/blob/main/docs/screenshots/dashboard.png)
 
-Meu foco é construir ferramentas que reduzam trabalho repetitivo, tornem processos mais rastreáveis e transformem problemas operacionais em software utilizável.
+### [Helpdesk Triage](https://github.com/Clebin0/ai-helpdesk)
 
----
+Classificação de chamados de suporte com TF-IDF e comparação entre três modelos. A categoria é prevista pelo classificador; prioridade e necessidade de revisão humana seguem regras separadas.
 
-## Stack
+**Tecnologias:** Python, FastAPI, scikit-learn e NLP.
 
-### Linguagens
+[Ver a interface](https://github.com/Clebin0/ai-helpdesk/blob/main/docs/screenshots/dashboard.png)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+### [Zabbix Observability Lab](https://github.com/Clebin0/zabbix-automation-lab)
 
-### Backend, dados & automação
+Integração de leitura com a API JSON-RPC do Zabbix e laboratório para comparar detectores de anomalias em séries de infraestrutura. O modo de demonstração usa dados fictícios.
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-</p>
+**Tecnologias:** Python, Zabbix API, FastAPI, Isolation Forest e Local Outlier Factor.
 
-### Infraestrutura & DevOps
+[Ver a interface](https://github.com/Clebin0/zabbix-automation-lab/blob/main/docs/screenshots/dashboard.png)
 
-<p>
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Zabbix-000000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+### [AuthForge](https://github.com/Clebin0/authforge)
 
-### IA & Machine Learning
+API de autenticação com JWT de curta duração, refresh tokens com rotação, detecção de reutilização e controle de acesso por papéis.
 
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/AIOps-000000?style=for-the-badge&logo=linux&logoColor=white" alt="AIOps" />
-  <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps" />
-</p>
+**Tecnologias:** Java 21, Spring Boot, Spring Security, PostgreSQL e Flyway.
 
----
+## Ferramentas e tecnologias
 
-Interesses atuais:
+No desenvolvimento backend, trabalho principalmente com **Python, Java, SQL, FastAPI, Spring Boot e PostgreSQL**. Em dados e IA, estudo e aplico **scikit-learn, classificação de texto e detecção de anomalias**. Minha base de infraestrutura inclui **Linux, Windows, redes, Zabbix, Docker e GitHub Actions**.
 
-AIOps · MLOps · Backend · APIs · PostgreSQL · Docker · Observabilidade · Automação
+## O que procuro desenvolver
 
----
+- APIs com contratos claros e validação de entrada.
+- Automações que reduzam tarefas repetitivas sem esconder o que fazem.
+- Experimentos de machine learning com métricas, dados e limitações documentados.
+- Sistemas que possam ser testados e mantidos por outras pessoas.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/cledson-silva) · [GitHub](https://github.com/Clebin0)
