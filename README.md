@@ -49,7 +49,7 @@ Engenharia de Software — graduação em andamento, previsão de conclusão em 
 
 ## Contato
 
-- E-mail: cledsonsantos@gmail.com
+- E-mail: cledsonsantos2005@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cledson-silva
 - Portfólio: https://cledson-portfolio.vercel.app
 
