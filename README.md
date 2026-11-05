@@ -14,10 +14,10 @@
 **Engenharia de Software · Suporte & Infraestrutura · Desenvolvimento Backend**
 
 <a href="https://github.com/Clebin0">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&color=111111&labelColor=000000" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&color=000000&labelColor=000000" alt="GitHub" />
 </a>
 <a href="https://cledson-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&color=111111&labelColor=000000" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&color=000000&labelColor=000000" alt="Portfólio" />
 </a>
 
 </div>
@@ -35,46 +35,46 @@ Gosto de construir soluções que possam ser executadas, testadas e explicadas �
 **Backend & APIs**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&color=111111&labelColor=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&color=111111&labelColor=000000" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&color=111111&labelColor=000000" alt="REST API" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&color=000000&labelColor=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&color=000000&labelColor=000000" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&color=000000&labelColor=000000" alt="REST API" />
 </p>
 
 **Dados**
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&color=111111&labelColor=000000" alt="SQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&color=111111&labelColor=000000" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&color=000000&labelColor=000000" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&color=000000&labelColor=000000" alt="SQLite" />
 </p>
 
 **Testes & qualidade**
 
 <p>
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&color=111111&labelColor=000000" alt="pytest" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&color=111111&labelColor=000000" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&color=000000&labelColor=000000" alt="pytest" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Actions" />
 </p>
 
 **Versionamento & colaboração**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&color=111111&labelColor=000000" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&color=111111&labelColor=000000" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&color=000000&labelColor=000000" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&color=000000&labelColor=000000" alt="GitHub" />
 </p>
 
 **Fundamentos em prática**
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&color=111111&labelColor=000000" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/JVM-007396?style=for-the-badge&color=111111&labelColor=000000" alt="JVM" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&color=000000&labelColor=000000" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JVM-007396?style=for-the-badge&color=000000&labelColor=000000" alt="JVM" />
 </p>
 
 ## IA aplicada — foco atual
 
 <p>
-  <img src="https://img.shields.io/badge/LLM-6B4FBB?style=for-the-badge&color=111111&labelColor=000000" alt="LLM" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&color=111111&labelColor=000000" alt="RAG" />
-  <img src="https://img.shields.io/badge/FastEmbed-475569?style=for-the-badge&color=111111&labelColor=000000" alt="FastEmbed" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&color=111111&labelColor=000000" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LLM-6B4FBB?style=for-the-badge&color=000000&labelColor=000000" alt="LLM" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&color=000000&labelColor=000000" alt="RAG" />
+  <img src="https://img.shields.io/badge/FastEmbed-475569?style=for-the-badge&color=000000&labelColor=000000" alt="FastEmbed" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&color=000000&labelColor=000000" alt="Ollama" />
 </p>
 
 Tenho desenvolvido experimentos de LLM e RAG com execução local: embeddings via FastEmbed, recuperação semântica e lexical, citações de fontes e geração com Qwen via Ollama.
