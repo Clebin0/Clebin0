@@ -90,6 +90,14 @@ Meu foco é construir ferramentas que reduzam trabalho repetitivo, tornem proces
 
 ---
 
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake.svg" />
+</picture>
+
 Interesses atuais:
 
 AIOps · MLOps · Backend · APIs · PostgreSQL · Docker · Observabilidade · Automação
