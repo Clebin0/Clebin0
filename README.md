@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://cledson-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
 
 </div>
@@ -34,21 +34,48 @@ Gosto de construir soluções que possam ser executadas, testadas e explicadas �
 
 **Backend & APIs**
 
-Python · FastAPI · APIs REST
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&logo= fastapi&logoColor=white" alt="REST API" />
+</p>
 
 **Dados**
 
-SQL · SQLite
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
 **Testes & qualidade**
 
-pytest · testes automatizados
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-**Ferramentas**
+**Versionamento & colaboração**
 
-Git · GitHub · GitHub Actions · Docker
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+**Fundamentos em prática**
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JVM-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JVM" />
+</p>
 
 ## IA aplicada — foco atual
+
+<p>
+  <img src="https://img.shields.io/badge/LLM-6B4FBB?style=for-the-badge" alt="LLM" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/FastEmbed-475569?style=for-the-badge" alt="FastEmbed" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
 
 Tenho desenvolvido experimentos de LLM e RAG com execução local: embeddings via FastEmbed, recuperação semântica e lexical, citações de fontes e geração com Qwen via Ollama.
 
@@ -62,6 +89,7 @@ Essa área está em evolução. Nos repositórios, separo resultados medidos, hi
 | [IT Support Toolkit](https://github.com/Clebin0/it-support-toolkit) | Diagnóstico de estação e rede, DNS, relatórios JSON, API local e testes. |
 | [Zabbix Observability Lab](https://github.com/Clebin0/zabbix-automation-lab) | Integração de leitura com API JSON-RPC e experimento controlado de anomalias. |
 | [Smart Inventory](https://github.com/Clebin0/smart-inventory) | API de inventário, autenticação por token, movimentações e histórico de ativos. |
+| [Task Manager](https://github.com/Clebin0/task_manager) | Kotlin, JDBC, SQLite, CRUD, validação e testes automatizados. |
 
 ## Contribuições
 
