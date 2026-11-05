@@ -86,9 +86,7 @@ Meu foco é construir ferramentas que reduzam trabalho repetitivo, tornem proces
   <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
 </p>
 
-Atualmente desenvolvo um copiloto de suporte com RAG: embeddings locais via FastEmbed, busca semântica em SQLite e respostas fundamentadas em documentos, com citações das fontes. A geração utiliza Qwen 3.5 local via Ollama; Hugging Face é uma alternativa experimental.
 
-Projeto: [AI Helpdesk — LLM & RAG Assistant](https://github.com/Clebin0/ai-helpdesk).
 
 ---
 
