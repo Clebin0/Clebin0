@@ -3,23 +3,21 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Cledson+Santos;Software+Engineering+%C2%B7+Infrastructure;Backend+%C2%B7+Automation+%C2%B7+AI%2FML"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Cledson+Santos;Python+%C2%B7+Backend;LLM+%C2%B7+RAG+%C2%B7+Automa%C3%A7%C3%A3o"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=760&lines=Cledson+Santos;Software+Engineering+%C2%B7+Infrastructure;Backend+%C2%B7+Automation+%C2%B7+AI%2FML"
-    alt="Cledson Santos"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=760&lines=Cledson+Santos;Python+%C2%B7+Backend;LLM+%C2%B7+RAG+%C2%B7+Automa%C3%A7%C3%A3o"
+    alt="Cledson Santos — Python, Backend, LLM e RAG"
   />
 </picture>
 
-**Engenharia de Software · Infraestrutura · Backend · Automação**
+**Estudante de Engenharia de Software · Suporte & Infraestrutura · Desenvolvimento Backend**
 
-Curitiba, PR · Brasil
-
-<a href="https://www.linkedin.com/in/cledson-silva">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 <a href="https://github.com/Clebin0">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://cledson-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
 
 </div>
@@ -28,79 +26,52 @@ Curitiba, PR · Brasil
 
 ## Sobre mim
 
-Analista de Suporte Jr. e estudante de Engenharia de Software. Minha base vem de suporte, infraestrutura, redes e troubleshooting; hoje direciono essa experiência para desenvolvimento backend, automação, observabilidade e aplicações de IA em operações de TI.
+Estudante de Engenharia de Software com experiência prática em suporte e infraestrutura. Desenvolvo ferramentas para diagnóstico, automação e organização de processos, com foco atual em Python, backend e aplicações de IA.
 
-Meu foco é construir ferramentas que reduzam trabalho repetitivo, tornem processos mais rastreáveis e transformem problemas operacionais em software utilizável.
+Tenho estudado LLMs e RAG com execução local, recuperação de documentos, citações de fontes e avaliação de qualidade da busca. Procuro documentar os limites dos experimentos e validar o comportamento com testes, em vez de apresentar protótipos como soluções prontas para produção.
 
----
-
-## Stack
-
-### Linguagens
+## Tecnologias demonstradas em projetos
 
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-### Backend, dados & automação
-
-<p>
+  <img src="https://img.shields.io/badge/SQL%20%2F%20SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL e SQLite" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/pytest-000000?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### Infraestrutura & DevOps
+## IA aplicada: LLM & RAG
 
-<p>
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Zabbix-000000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+- **Embeddings:** FastEmbed com modelo multilíngue executado localmente.
+- **Recuperação:** busca semântica em SQLite e experimentos com FTS5/BM25 e Reciprocal Rank Fusion.
+- **Geração local:** Qwen via Ollama.
+- **Avaliação:** Recall@K, Precision, MRR, abstenção e análise de fontes recuperadas.
 
-### IA & Machine Learning
+Os resultados publicados vêm de benchmarks locais com dados sintéticos. Eles não representam desempenho garantido em uma central de atendimento real.
 
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/AIOps-000000?style=for-the-badge&logo=linux&logoColor=white" alt="AIOps" />
-  <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps" />
-</p>
+## Projetos em destaque
 
-### LLM & RAG
-
-<p>
-  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-</p>
-
-
-
----
+| Projeto | O que demonstra |
+|---|---|
+| [AI Helpdesk — LLM & RAG](https://github.com/Clebin0/ai-helpdesk) | Assistente documental, embeddings locais, recuperação com citações e avaliação de RAG. |
+| [IT Support Toolkit](https://github.com/Clebin0/it-support-toolkit) | Diagnóstico somente leitura de estação, rede e DNS, relatório JSON e testes automatizados. |
+| [Zabbix Observability Lab](https://github.com/Clebin0/zabbix-automation-lab) | Integração de leitura com API JSON-RPC e experimentos controlados de detecção de anomalias. |
+| [Smart Inventory](https://github.com/Clebin0/smart-inventory) | API para inventário de ativos, histórico de movimentações e regras de rastreabilidade. |
 
 ## Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação da cobrinha percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação da cobrinha percorrendo minhas contribuições no GitHub"
+    src="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake.svg"
+  />
 </picture>
-
-Interesses atuais:
-
-AIOps · MLOps · Backend · APIs · PostgreSQL · Docker · Observabilidade · Automação
-
----
 
