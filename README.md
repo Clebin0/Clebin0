@@ -28,7 +28,7 @@
 
 Sou estudante de Engenharia de Software e trabalho com suporte e infraestrutura. Desenvolvo ferramentas de diagnóstico, automação e APIs, com foco em backend Python, integração de sistemas e qualidade de código.
 
-Gosto de construir soluções que possam ser executadas, testadas e explicadas — não apenas demonstrações visuais.
+Gosto de construir soluções que possam ser executadas, testadas e explicadas e não apenas demonstrações visuais.
 
 ## Tecnologias que utilizo em projetos
 
@@ -68,7 +68,7 @@ Gosto de construir soluções que possam ser executadas, testadas e explicadas �
   <img src="https://img.shields.io/badge/JVM-007396?style=for-the-badge&color=000000&labelColor=000000" alt="JVM" />
 </p>
 
-## IA aplicada — foco atual
+**IA aplicada — foco atual**
 
 <p>
   <img src="https://img.shields.io/badge/LLM-6B4FBB?style=for-the-badge&color=000000&labelColor=000000" alt="LLM" />
@@ -76,22 +76,6 @@ Gosto de construir soluções que possam ser executadas, testadas e explicadas �
   <img src="https://img.shields.io/badge/FastEmbed-475569?style=for-the-badge&color=000000&labelColor=000000" alt="FastEmbed" />
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&color=000000&labelColor=000000" alt="Ollama" />
 </p>
-
-Tenho desenvolvido experimentos de LLM e RAG com execução local: embeddings via FastEmbed, recuperação semântica e lexical, citações de fontes e geração com Qwen via Ollama.
-
-Essa área está em evolução. Nos repositórios, separo resultados medidos, hipóteses e limitações dos experimentos.
-
-## Projetos em destaque
-
-| Projeto | O que demonstra |
-|---|---|
-| [AI Helpdesk — LLM & RAG](https://github.com/Clebin0/ai-helpdesk) | Python, embeddings locais, recuperação documental, citações e avaliação de RAG. |
-| [IT Support Toolkit](https://github.com/Clebin0/it-support-toolkit) | Diagnóstico de estação e rede, DNS, relatórios JSON, API local e testes. |
-| [Zabbix Observability Lab](https://github.com/Clebin0/zabbix-automation-lab) | Integração de leitura com API JSON-RPC e experimento controlado de anomalias. |
-| [Smart Inventory](https://github.com/Clebin0/smart-inventory) | API de inventário, autenticação por token, movimentações e histórico de ativos. |
-| [Task Manager](https://github.com/Clebin0/task_manager) | Kotlin, JDBC, SQLite, CRUD, validação e testes automatizados. |
-
-## Contribuições
 
 <picture>
   <source
