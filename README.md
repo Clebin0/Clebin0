@@ -3,21 +3,30 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Cledson+Santos;Python+%C2%B7+Backend;APIs+%C2%B7+SQL+%C2%B7+Automa%C3%A7%C3%A3o"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=820&lines=Cledson+Santos;Backend+%26+Automa%C3%A7%C3%A3o;Python+%C2%B7+APIs+%C2%B7+Infraestrutura;IA+Aplicada+%C2%B7+MLOps"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=760&lines=Cledson+Santos;Python+%C2%B7+Backend;APIs+%C2%B7+SQL+%C2%B7+Automa%C3%A7%C3%A3o"
-    alt="Cledson Santos — Python, Backend, APIs e SQL"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=111111&center=true&vCenter=true&width=820&lines=Cledson+Santos;Backend+%26+Automa%C3%A7%C3%A3o;Python+%C2%B7+APIs+%C2%B7+Infraestrutura;IA+Aplicada+%C2%B7+MLOps"
+    alt="Cledson Santos — Backend, automação, APIs e infraestrutura"
   />
 </picture>
 
-**Engenharia de Software · Suporte & Infraestrutura · Desenvolvimento Backend**
+**ENGENHARIA DE SOFTWARE · BACKEND · SUPORTE & INFRAESTRUTURA**
+
+<br />
+
+*Transformo problemas operacionais em software útil, testável e fácil de entender.*
+
+<br />
 
 <a href="https://github.com/Clebin0">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&color=000000&labelColor=000000" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://cledson-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&color=000000&labelColor=000000" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+</a>
+<a href="https://www.linkedin.com/in/cledson-silva/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -26,56 +35,72 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software e trabalho com suporte e infraestrutura. Desenvolvo ferramentas de diagnóstico, automação e APIs, com foco em backend Python, integração de sistemas e qualidade de código.
+Sou estudante de Engenharia de Software e trabalho com suporte e infraestrutura. No código, meu foco está em **backend Python, APIs e automação** — criando ferramentas de diagnóstico, integrações e aplicações que resolvem problemas concretos.
 
-Gosto de construir soluções que possam ser executadas, testadas e explicadas e não apenas demonstrações visuais.
+Também exploro **IA aplicada e MLOps**, sempre com atenção à qualidade, aos testes e à clareza das decisões técnicas. Gosto de construir coisas que possam ser executadas, verificadas e mantidas.
 
-## Tecnologias que utilizo em projetos
+## Projetos em destaque
 
-**Backend & APIs**
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Clebin0/rifatrack"><strong>RIFATRACK</strong></a><br />
+      Gestão de campanhas, reservas, pagamentos e sorteios verificáveis. Aplicação full stack em evolução.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Clebin0/authforge"><strong>AUTHFORGE</strong></a><br />
+      API de autenticação com Java e Spring Boot, rotação de refresh tokens e controle de acesso por perfil.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Clebin0/ai-helpdesk"><strong>AI HELPDESK</strong></a><br />
+      Classificação de chamados de TI com machine learning, avaliação de modelos e revisão humana.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Clebin0/it-support-toolkit"><strong>IT SUPPORT TOOLKIT</strong></a><br />
+      Diagnóstico local de recursos, armazenamento, rede, DNS e processos para suporte técnico.
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&color=000000&labelColor=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&color=000000&labelColor=000000" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&color=000000&labelColor=000000" alt="REST API" />
-</p>
+## Tecnologias em projetos
 
-**Dados**
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&color=000000&labelColor=000000" alt="SQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&color=000000&labelColor=000000" alt="SQLite" />
-</p>
-
-**Testes & qualidade**
-
-<p>
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&color=000000&labelColor=000000" alt="pytest" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Actions" />
-</p>
-
-**Versionamento & colaboração**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&color=000000&labelColor=000000" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&color=000000&labelColor=000000" alt="GitHub" />
-</p>
-
-**Fundamentos em prática**
+**BACKEND & APIs**
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&color=000000&labelColor=000000" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/JVM-007396?style=for-the-badge&color=000000&labelColor=000000" alt="JVM" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API" />
 </p>
 
-**IA aplicada — foco atual**
+**DADOS**
 
 <p>
-  <img src="https://img.shields.io/badge/LLM-6B4FBB?style=for-the-badge&color=000000&labelColor=000000" alt="LLM" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&color=000000&labelColor=000000" alt="RAG" />
-  <img src="https://img.shields.io/badge/FastEmbed-475569?style=for-the-badge&color=000000&labelColor=000000" alt="FastEmbed" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&color=000000&labelColor=000000" alt="Ollama" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
+
+**TESTES, QUALIDADE & COLABORAÇÃO**
+
+<p>
+  <img src="https://img.shields.io/badge/pytest-111111?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**OUTRAS FRENTES**
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/LLM_%2F_RAG-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="LLM e RAG" />
+  <img src="https://img.shields.io/badge/MLOps-111111?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps" />
+</p>
+
+<div align="center">
 
 <picture>
   <source
@@ -91,3 +116,5 @@ Gosto de construir soluções que possam ser executadas, testadas e explicadas e
     src="https://raw.githubusercontent.com/Clebin0/Clebin0/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
