@@ -39,31 +39,6 @@ Sou estudante de Engenharia de Software e trabalho com suporte e infraestrutura.
 
 Também exploro **IA aplicada e MLOps**, sempre com atenção à qualidade, aos testes e à clareza das decisões técnicas. Gosto de construir coisas que possam ser executadas, verificadas e mantidas.
 
-## Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Clebin0/rifatrack"><strong>RIFATRACK</strong></a><br />
-      Gestão de campanhas, reservas, pagamentos e sorteios verificáveis. Aplicação full stack em evolução.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Clebin0/authforge"><strong>AUTHFORGE</strong></a><br />
-      API de autenticação com Java e Spring Boot, rotação de refresh tokens e controle de acesso por perfil.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Clebin0/ai-helpdesk"><strong>AI HELPDESK</strong></a><br />
-      Classificação de chamados de TI com machine learning, avaliação de modelos e revisão humana.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Clebin0/it-support-toolkit"><strong>IT SUPPORT TOOLKIT</strong></a><br />
-      Diagnóstico local de recursos, armazenamento, rede, DNS e processos para suporte técnico.
-    </td>
-  </tr>
-</table>
-
 ## Tecnologias em projetos
 
 **BACKEND & APIs**
